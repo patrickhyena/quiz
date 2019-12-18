@@ -1,0 +1,11 @@
+ID#Name#Position#SalaryAmount
+S0001#John#Staff#3550000
+S0002#Mary#Staff#4000000
+S0003#Susan#Staff#4500000
+S0004#Kate#Staff#4570000
+S0005#Karen#Staff#5000000
+S0006#Tom#Officer#7500000
+S0007#Phil#Manager#10000001
+S0008#Swift#Manager#11000000
+S0009#Flex#Officer#8000000
+S0010#Seal#Officer#9000000
